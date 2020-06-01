@@ -18,6 +18,6 @@ Read prepared data from previous step and implement calculation logic as per req
 Collect calculation results from previous step and generate output file. 
 
 ## Running
-- If you would like to execute this solution in command line, save this solution and input file in the same directory, and execute ` sde-test-solution.py input_file.json output_file.json `
+- If you would like to execute this solution in command line, save this solution and input file in the same directory, and execute ` python sde-test-solution.py input_file.json output_file.json `
 
 - If you would like to execute this solution in docker,  
